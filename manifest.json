@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "CodeSync",
+    "version": "1.0",
+    "description": "A browser extension to share notes using a 6-digit sync code with Firebase.",
+    "permissions": [],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
